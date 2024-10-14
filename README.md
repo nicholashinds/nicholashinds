@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **Da
   
 ## 🚧 What I'm Working On
 - 🌐 My **personal website**!
-- 💭 Gibberle, a gibberish phrase guessing game.
+- 💭 **Gibberle**, a gibberish phrase guessing game.
   
 ## 💬 Let's Connect!
 Feel free to reach out if you want to talk about ML, collaborate, or just chat about cool projects:
