@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **Da
 
 ## 🧠 About Me
 - 🔬 Currently a **researcher** in the **Visual Intelligence Lab** under Dr. Qianwen Wang at the University of Minnesota - Twin Cities.
-- 🤖 ML Team Lead for [Gibberle]([url](https://github.com/Pv3-Labs/gibberle)).
+- 🤖 ML Team Lead for [Gibberle](https://github.com/Pv3-Labs/gibberle).
 - ♾️ Member of [Pv3-Labs](https://github.com/Pv3-Labs).
 - 🌱 Always learning and exploring new technologies and softwares.
   
