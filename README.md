@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **Da
 
 - 🌐 My **personal website**!
 - 💭 **Gibberle**, a gibberish phrase guessing game.
-- 💀 A **camo tracker** for the new Call of Duty game.
 
 ## 💬 Let's Connect!
 
